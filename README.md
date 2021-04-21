@@ -22,7 +22,7 @@ export const block_item = createStyleClass({"fontSize":"30px","height":"100px","
 
 ## 使用  
 ```js
-npm install jsv-stylus-loader --save  
+npm install jsv-stylus-loader --save-dev  
 ```
 
 在 webpack 配置里添加 loader  
